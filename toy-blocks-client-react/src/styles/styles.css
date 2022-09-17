@@ -1,0 +1,49 @@
+body {
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.4em;
+  color: #4d4d4d;
+  min-width: 230px;
+  max-width: 650px;
+  margin: 0 auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-weight: 300;
+}
+
+td {
+  padding: 12px;
+}
+
+h2 {
+  color: #5bb7db;
+}
+
+.savings {
+  color: #60b044;
+}
+.loss {
+  color: #ff0000;
+}
+input.small {
+  width: 46px;
+}
+td.fuel-savings-label {
+  width: 175px;
+}
+.block{
+  margin-bottom: 5px;
+  padding: 10px;
+  font-weight: 500;
+  background : #ddd;
+  border-radius: 3px;
+}
+.blockID{
+  margin: 0px;
+  color: blue;
+  font-size: 12px;
+}
+.blockDesc{
+  font-size : 14px;
+  margin : 0px;
+}
